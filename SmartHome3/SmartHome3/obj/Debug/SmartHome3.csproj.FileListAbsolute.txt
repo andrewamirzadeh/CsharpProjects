@@ -1,0 +1,10 @@
+C:\Users\andre\source\repos\SmartHome3\SmartHome3\bin\Debug\SmartHome3.exe.config
+C:\Users\andre\source\repos\SmartHome3\SmartHome3\bin\Debug\SmartHome3.exe
+C:\Users\andre\source\repos\SmartHome3\SmartHome3\bin\Debug\SmartHome3.pdb
+C:\Users\andre\source\repos\SmartHome3\SmartHome3\obj\Debug\SmartHome3.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\SmartHome3\SmartHome3\obj\Debug\SmartHome3.Form1.resources
+C:\Users\andre\source\repos\SmartHome3\SmartHome3\obj\Debug\SmartHome3.Properties.Resources.resources
+C:\Users\andre\source\repos\SmartHome3\SmartHome3\obj\Debug\SmartHome3.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\SmartHome3\SmartHome3\obj\Debug\SmartHome3.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\SmartHome3\SmartHome3\obj\Debug\SmartHome3.exe
+C:\Users\andre\source\repos\SmartHome3\SmartHome3\obj\Debug\SmartHome3.pdb
